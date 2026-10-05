@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0518-coin-change-ii) |
 | [1463-cherry-pickup-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1463-cherry-pickup-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
