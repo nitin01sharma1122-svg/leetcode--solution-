@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
