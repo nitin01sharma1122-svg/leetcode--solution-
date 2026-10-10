@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
