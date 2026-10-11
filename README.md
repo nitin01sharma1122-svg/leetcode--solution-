@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0072-edit-distance) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0115-distinct-subsequences) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
