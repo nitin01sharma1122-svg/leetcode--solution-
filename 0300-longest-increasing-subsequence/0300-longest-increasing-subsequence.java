@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-   int n  = nums.length;
+      int n  = nums.length;
   int [][]dp = new int[n][n+1];
 
   for(int i=0; i<n; i++){
@@ -34,6 +34,6 @@ class Solution {
     take = 1 + solve(idx + 1, nums, idx, dp);
 }
 
-        return dp[idx][previdx+1] = Math.max(take,skip);
+        return dp[idx][previdx+1] = Math.max(take,skip);  
     }
 }
