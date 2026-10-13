@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 ## Memoization
