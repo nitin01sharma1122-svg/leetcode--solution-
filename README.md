@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1463-cherry-pickup-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1463-cherry-pickup-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
