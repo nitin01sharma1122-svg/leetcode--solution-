@@ -1,12 +1,9 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if(root == null){
-            return true;
-        }
+        
       return dfs(root.left,root.right);   
 
     }
-            
 
   public boolean dfs(TreeNode root1, TreeNode root2 ){
 
