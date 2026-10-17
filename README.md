@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
