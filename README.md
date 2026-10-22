@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 ## Linked List
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
