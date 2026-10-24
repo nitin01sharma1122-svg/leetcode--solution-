@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 ## Linked List
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
