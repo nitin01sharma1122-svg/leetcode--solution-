@@ -1,4 +1,5 @@
-class Solution {
+
+    class Solution {
     public int minDistance(String word1, String word2) {
         
 
@@ -47,4 +48,5 @@ public int solve(int i, int j ,String word1, String word2,int[][]dp){
 
 
     }
-}
+}    
+    
