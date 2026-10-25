@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0115-distinct-subsequences) |
+| [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0583-delete-operation-for-two-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
