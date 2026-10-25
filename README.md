@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 ## Manacher
 |  |
 | ------- |
