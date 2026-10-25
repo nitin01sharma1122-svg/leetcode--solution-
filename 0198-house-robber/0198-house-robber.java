@@ -12,7 +12,7 @@ class Solution {
    int sum  = 0;
       
     if(idx==nums.length-1){
-      return   nums[idx];
+      return   sum =  nums[idx];
     }
 
 
@@ -34,3 +34,4 @@ class Solution {
            return   dp[idx] = sum;
     }
 }
+    
