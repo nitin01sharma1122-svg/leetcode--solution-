@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
