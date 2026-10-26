@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
 ## Manacher
