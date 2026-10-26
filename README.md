@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -283,4 +285,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
