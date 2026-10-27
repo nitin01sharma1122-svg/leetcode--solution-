@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 ## Manacher
 |  |
 | ------- |
@@ -290,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -314,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
