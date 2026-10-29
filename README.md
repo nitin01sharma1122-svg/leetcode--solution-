@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0416-partition-equal-subset-sum) |
@@ -326,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
