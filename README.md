@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
