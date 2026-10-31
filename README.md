@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0518-coin-change-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 ## Manacher
 |  |
 | ------- |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0304-range-sum-query-2d-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
