@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0583-delete-operation-for-two-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
