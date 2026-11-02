@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0454-4sum-ii) |
 | [0475-heaters](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
