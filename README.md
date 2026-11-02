@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1043-partition-array-for-maximum-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1463-cherry-pickup-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1463-cherry-pickup-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0454-4sum-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0475-heaters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
