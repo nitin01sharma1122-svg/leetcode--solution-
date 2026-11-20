@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0454-4sum-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,11 +339,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0662-maximum-width-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -431,11 +437,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
