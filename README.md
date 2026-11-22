@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0328-odd-even-linked-list) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0144-binary-tree-preorder-traversal) |
