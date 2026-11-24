@@ -1,44 +1,32 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-                   
-             if(root == null){
-                  return null;
-               }  
-   Stack<TreeNode>st = new Stack<>();
-               
-            st.push(root);
+        
+   Queue<TreeNode>queue = new LinkedList<>();
 
-           while(!st.isEmpty()){
-            TreeNode node  = st.pop();
-
-             
-           TreeNode temp = node.left;
-           node.left  = node.right;
-            node.right = temp;
-                
-
-
-
-             if(node.left != null){
-                st.push(node.left);
-             }
-
-             if(node.right != null){
-                 st.push(node.right);
-             }
-
-           
-
-
-           }
-       
-         
-
-              
-          return root;
-
+            if(root == null){
+                return null;
+            }
           
+          queue.offer(root);
+          while(!queue.isEmpty()){
+
+        TreeNode node  = queue.poll();
+
+        if(node.left != null){
+           queue.offer(node.left);
+
+          }
+           if(node.right != null){
+               queue.offer(node.right);
+           }
+
+          TreeNode temp  = node.left;
+           node.left = node.right;
+           node.right = temp;
 
 
+          }
+
+          return root;
     }
 }
