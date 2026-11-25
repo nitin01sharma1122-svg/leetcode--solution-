@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0112-path-sum) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0112-path-sum) |
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitin01sharma1122-svg/leetcode--solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
